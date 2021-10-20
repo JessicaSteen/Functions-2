@@ -64,7 +64,9 @@ declaration
 
 //CODE HERE
 
-
+const jsNinja = () => {
+  return "I am JavaScript ninja!"
+};
 
 ////////// PROBLEM 5 //////////
 
