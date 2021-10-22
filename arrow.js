@@ -103,3 +103,7 @@ const compareNums = (num1, num2) => {
 */
 
 //CODE HERE
+
+const bestMovie = (strMoiveTitle) => `${strMoiveTitle} is the best movie ever!`
+
+console.log(bestMovie("harry potter"))
